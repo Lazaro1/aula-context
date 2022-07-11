@@ -1,0 +1,27 @@
+.container {
+  background-color: #06092b;
+  color: white;
+
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.imagem {
+  width: 180px;
+  margin-bottom: 18px;
+}
+
+.title {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.decription {
+  font-size: 16px;
+  font-weight: 300;
+}
